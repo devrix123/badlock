@@ -1,8 +1,8 @@
 # badlock
-A simple program to lock your computer
+aplikasi sederhana untuk mengunci windosw
 
-# Current Passord
+# paswot
 pass : AuXpLaYeR
 
 # version 1
-simple locker
+ransomware penggabut sahaja
